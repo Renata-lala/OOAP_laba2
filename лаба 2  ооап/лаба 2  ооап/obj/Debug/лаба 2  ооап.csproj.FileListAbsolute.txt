@@ -1,0 +1,12 @@
+C:\Users\slava\source\repos\лаба 2  ооап\лаба 2  ооап\obj\Debug\лаба 2  ооап.csproj.AssemblyReference.cache
+C:\Users\slava\source\repos\лаба 2  ооап\лаба 2  ооап\obj\Debug\лаба_2__ооап.Form1.resources
+C:\Users\slava\source\repos\лаба 2  ооап\лаба 2  ооап\obj\Debug\лаба_2__ооап.Properties.Resources.resources
+C:\Users\slava\source\repos\лаба 2  ооап\лаба 2  ооап\obj\Debug\лаба 2  ооап.csproj.GenerateResource.cache
+C:\Users\slava\source\repos\лаба 2  ооап\лаба 2  ооап\obj\Debug\лаба 2  ооап.csproj.CoreCompileInputs.cache
+C:\Users\slava\source\repos\лаба 2  ооап\лаба 2  ооап\bin\Debug\лаба 2  ооап.exe.config
+C:\Users\slava\source\repos\лаба 2  ооап\лаба 2  ооап\bin\Debug\лаба 2  ооап.exe
+C:\Users\slava\source\repos\лаба 2  ооап\лаба 2  ооап\bin\Debug\лаба 2  ооап.pdb
+C:\Users\slava\source\repos\лаба 2  ооап\лаба 2  ооап\obj\Debug\лаба 2  ооап.exe
+C:\Users\slava\source\repos\лаба 2  ооап\лаба 2  ооап\obj\Debug\лаба 2  ооап.pdb
+C:\Users\slava\source\repos\лаба 2  ооап\лаба 2  ооап\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\slava\source\repos\лаба 2  ооап\лаба 2  ооап\obj\Debug\лаба 2  ооап.csproj.CopyComplete

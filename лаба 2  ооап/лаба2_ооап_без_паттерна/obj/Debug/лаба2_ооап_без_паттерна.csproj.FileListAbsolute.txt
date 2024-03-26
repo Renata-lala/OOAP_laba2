@@ -1,0 +1,10 @@
+C:\Users\slava\source\repos\лаба 2  ооап\лаба2_ооап_без_паттерна\bin\Debug\лаба2_ооап_без_паттерна.exe.config
+C:\Users\slava\source\repos\лаба 2  ооап\лаба2_ооап_без_паттерна\bin\Debug\лаба2_ооап_без_паттерна.exe
+C:\Users\slava\source\repos\лаба 2  ооап\лаба2_ооап_без_паттерна\bin\Debug\лаба2_ооап_без_паттерна.pdb
+C:\Users\slava\source\repos\лаба 2  ооап\лаба2_ооап_без_паттерна\obj\Debug\лаба2_ооап_без_паттерна.csproj.AssemblyReference.cache
+C:\Users\slava\source\repos\лаба 2  ооап\лаба2_ооап_без_паттерна\obj\Debug\лаба2_ооап_без_паттерна.Properties.Resources.resources
+C:\Users\slava\source\repos\лаба 2  ооап\лаба2_ооап_без_паттерна\obj\Debug\лаба2_ооап_без_паттерна.csproj.GenerateResource.cache
+C:\Users\slava\source\repos\лаба 2  ооап\лаба2_ооап_без_паттерна\obj\Debug\лаба2_ооап_без_паттерна.csproj.CoreCompileInputs.cache
+C:\Users\slava\source\repos\лаба 2  ооап\лаба2_ооап_без_паттерна\obj\Debug\лаба2_ооап_без_паттерна.exe
+C:\Users\slava\source\repos\лаба 2  ооап\лаба2_ооап_без_паттерна\obj\Debug\лаба2_ооап_без_паттерна.pdb
+C:\Users\slava\source\repos\лаба 2  ооап\лаба2_ооап_без_паттерна\obj\Debug\лаба2_ооап_без_паттерна.Form2.resources
